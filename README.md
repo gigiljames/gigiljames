@@ -9,9 +9,11 @@
 
 ## Leetcode Stats:
 
-![Enter some description](https://leetcode-badge-sage.vercel.app/badge/gigiljames?theme=dark)
-<br>
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/gigiljames/)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://leetcode-stats-six.vercel.app/gigiljames?theme=dark">
+  <img src="https://leetcode-stats-six.vercel.app/gigiljames?theme=dark">
+</picture>
 
 <!--
 <br>
